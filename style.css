@@ -642,7 +642,7 @@ ul li{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('./images/bell.svg');
+  background-image: url('./images/Bell.svg');
   width: 157px;
   height: 117px;
   border-radius: 8px;
@@ -674,7 +674,7 @@ ul li{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('./images/cartoon.svg');
+  background-image: url('./images/Cartoon.svg');
   width: 157px;
   height: 117px;
   border-radius: 8px;
